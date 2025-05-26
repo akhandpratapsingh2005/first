@@ -1,4 +1,4 @@
 # first
 this is my first git repository.
 <br>
-Author-Akhand Pratap Singh
+Author-Akhand Pratap Singh (hello)
